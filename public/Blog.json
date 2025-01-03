@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/4Prvp9w/pexels-gabby-k-5273566.jpg",
+      "title": "Exploring the Cosmos",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co.com/pw6XDKL/photo-indignant-dark-skinned-young-author-wears-transparent-glasses-casual-clothes-writes-down-notes.jpg",
+      "posted_date": "2024-12-01",
+      "reading_time": "5 min read",
+      "hashtags": ["#science", "#space", "#exploration"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/v3cBD97/pexels-anete-lusina-4792729.jpg",
+      "title": "The Art of Minimalism",
+      "author": "Brian Carter",
+      "author_img": "https://i.ibb.co.com/j3zwRDX/24110.jpg",
+      "posted_date": "2024-12-15",
+      "reading_time": "8 min read",
+      "hashtags": ["#lifestyle", "#minimalism", "#design"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/rMXLY2v/ilija-boshkov-0n-I1-Dcz-RQAM-unsplash.jpg",
+      "title": "Mastering React in 2024",
+      "author": "Sophie Lee",
+      "author_img": "https://i.ibb.co.com/cDN2yb6/2889.jpg",
+      "posted_date": "2024-11-20",
+      "reading_time": "12 min read",
+      "hashtags": ["#webdev", "#react", "#javascript"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/D1jbgMv/sudharshan-tk-m-M9v-VJ2o-De-I-unsplash.jpg",
+      "title": "Healthy Living Hacks",
+      "author": "Michael Brown",
+      "author_img": "https://i.ibb.co.com/WPDv3XL/27320.jpg",
+      "posted_date": "2024-10-10",
+      "reading_time": "6 min read",
+      "hashtags": ["#health", "#fitness", "#wellness"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/64gwJg1/irvan-smith-cwq-G1-N1-At-I0-unsplash.jpg",
+      "title": "AI Trends for 2025",
+      "author": "Emma Watson",
+      "author_img": "https://i.ibb.co.com/fnGdmfP/15690.jpg",
+      "posted_date": "2024-12-30",
+      "reading_time": "10 min read",
+      "hashtags": ["#technology", "#AI", "#future"]
+    }
+  ]
+  
