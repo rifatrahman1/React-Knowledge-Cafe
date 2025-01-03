@@ -1,18 +1,23 @@
-import { useEffect } from "react";
-import { useState } from "react";
 
-const Blog = () => {
-    const [blogs, setBlogs] = useState([]);
+import { useEffect, useState } from "react";
+import Blog from "../Blog/Blog";
+
+
+const Blogs = () => {
+    const [blogs, set_blogs] = useState([]);
     useEffect (() => {
         fetch('Blog.json')
         .then(res => res.json())
-        .then(data => setBlogs(data))
+        .then(data => set_blogs(data))
     }, [])
     return (
         <div className="md:w-2/3">
-            <h1>Dynamicly {blogs.length}</h1>
+
+            {
+                blogs.map(blog => <Blog key={blog.id} blog={blog}></Blog>)
+            }
         </div>
     );
 };
 
-export default Blog;
+export default Blogs;
